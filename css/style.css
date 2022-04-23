@@ -1,0 +1,14 @@
+.link {
+    display: inline-block;
+    float: left;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: black;
+}
+.navigation {
+    height: 50px;
+    width: 100%;
+    background-color: #fdfd96;
+    padding: 10px;
+}
